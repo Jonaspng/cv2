@@ -1,0 +1,48 @@
+#introduction{
+  margin-top: 30px;
+}
+
+p{
+  line-height: 25px;
+}
+
+footer{
+  background-color: black;
+  color: white;
+  height: 80px;
+  padding: 20px;
+  margin-top: 30px;
+}
+
+#jonas-photo{
+  height: 300px;
+  border-radius: 5px;
+}
+.jonas-intro{
+  display: flex;
+  align-items: center;
+}
+.section-divider{
+  width: 80%;
+}
+
+.header{
+  margin-bottom: 30px;
+}
+
+.skill-div{
+  margin-bottom: 25px;
+}
+.card{
+  margin-bottom: 20px;
+  min-width: 100px;
+  min-height: 250px;
+}
+
+.card-text{
+  text-align: justify;
+}
+
+.icon{
+  margin-right: 15px;
+}
