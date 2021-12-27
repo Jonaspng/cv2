@@ -18,10 +18,16 @@ footer{
   height: 300px;
   border-radius: 5px;
 }
+
 .jonas-intro{
   display: flex;
   align-items: center;
 }
+
+.download-btn{
+  margin-bottom: 10px;
+}
+
 .section-divider{
   width: 80%;
 }
@@ -33,6 +39,7 @@ footer{
 .skill-div{
   margin-bottom: 25px;
 }
+
 .card{
   margin-bottom: 20px;
   min-width: 100px;
